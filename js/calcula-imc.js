@@ -1,5 +1,5 @@
 var titulo = document.querySelector(".titulo");
-titulo.textContent = "Aparecida Nutricionista";
+titulo.textContent jheniffer Nutricionista
 
 var pacientes = document.querySelectorAll(".paciente");
 
@@ -28,7 +28,7 @@ for (var i = 0; i < pacientes.length; i++) {
     if (!alturaEhValida) {
         console.log("Altura inválida!");
         alturaEhValida = false;
-        tdImc.textContent = "Altura inválida";
+        tdImc.textContent = "Altura inválida";Aparecida
         paciente.classList.add("paciente-invalido");
     }
 
